@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f275b29.css",
+    "main.js": "/static/js/main.2f9efdac.js",
+    "static/js/453.15e3ee39.chunk.js": "/static/js/453.15e3ee39.chunk.js",
+    "static/media/contactu.jpg": "/static/media/contactu.37b8aa80b2527f8f2a2d.jpg",
+    "static/media/games.jpg": "/static/media/games.c29dd6a6dc9f3a362a20.jpg",
+    "static/media/about.jpg": "/static/media/about.d7a6cc252db5b83a0d84.jpg",
+    "static/media/studentt.jpg": "/static/media/studentt.251c401dc831e56a52d2.jpg",
+    "static/media/love.jpg": "/static/media/love.41a0c8966b1950f111a3.jpg",
+    "static/media/female.jpg": "/static/media/female.36eb41757ce518150022.jpg",
+    "static/media/students1.jpg": "/static/media/students1.54d402b642394b68eff2.jpg",
+    "static/media/adv2.png": "/static/media/adv2.8b12cbc9f2bf456f43a3.png",
+    "static/media/adv5.png": "/static/media/adv5.f666d30c11a311d70ce1.png",
+    "static/media/adv4.png": "/static/media/adv4.c343083a766d225ebac2.png",
+    "static/media/sports.jpg": "/static/media/sports.d12a8a0ddd6fc869b9b2.jpg",
+    "static/media/adv3.png": "/static/media/adv3.127f56e44094761b24cc.png",
+    "static/media/security.png": "/static/media/security.7e64ddd76b3cc66935b7.png",
+    "static/media/primary.jpg": "/static/media/primary.fde5b2a29a032c9afba6.jpg",
+    "static/media/highschool.jpg": "/static/media/highschool.0ae074d5ad13b621d0ff.jpg",
+    "static/media/pre.jpg": "/static/media/pre.f29468b80624e435138d.jpg",
+    "index.html": "/index.html",
+    "main.3f275b29.css.map": "/static/css/main.3f275b29.css.map",
+    "main.2f9efdac.js.map": "/static/js/main.2f9efdac.js.map",
+    "453.15e3ee39.chunk.js.map": "/static/js/453.15e3ee39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f275b29.css",
+    "static/js/main.2f9efdac.js"
+  ]
+}
